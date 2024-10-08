@@ -7,16 +7,20 @@
       "RelativeMoniker": "D:0:0:{B0F859B5-DBC0-4103-A8A4-BE1E9CE6CDFA}|EmployeeManagement.csproj|solutionrelative:controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B0F859B5-DBC0-4103-A8A4-BE1E9CE6CDFA}|EmployeeManagement.csproj|c:\\24\\projects\\asp.net employee\\asp.net\\employeemanagement\\models\\addemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0F859B5-DBC0-4103-A8A4-BE1E9CE6CDFA}|EmployeeManagement.csproj|solutionrelative:models\\addemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F859B5-DBC0-4103-A8A4-BE1E9CE6CDFA}|EmployeeManagement.csproj|c:\\24\\projects\\asp.net employee\\asp.net\\employeemanagement\\models\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0F859B5-DBC0-4103-A8A4-BE1E9CE6CDFA}|EmployeeManagement.csproj|solutionrelative:models\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B0F859B5-DBC0-4103-A8A4-BE1E9CE6CDFA}|EmployeeManagement.csproj|c:\\24\\projects\\asp.net employee\\asp.net\\employeemanagement\\models\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0F859B5-DBC0-4103-A8A4-BE1E9CE6CDFA}|EmployeeManagement.csproj|solutionrelative:models\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B0F859B5-DBC0-4103-A8A4-BE1E9CE6CDFA}|EmployeeManagement.csproj|c:\\24\\projects\\asp.net employee\\asp.net\\employeemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0F859B5-DBC0-4103-A8A4-BE1E9CE6CDFA}|EmployeeManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0F859B5-DBC0-4103-A8A4-BE1E9CE6CDFA}|EmployeeManagement.csproj|c:\\24\\projects\\asp.net employee\\asp.net\\employeemanagement\\models\\addemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0F859B5-DBC0-4103-A8A4-BE1E9CE6CDFA}|EmployeeManagement.csproj|solutionrelative:models\\addemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B0F859B5-DBC0-4103-A8A4-BE1E9CE6CDFA}|EmployeeManagement.csproj|c:\\24\\projects\\asp.net employee\\asp.net\\employeemanagement\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,19 +50,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "UpdateEmployeeDto.cs",
+              "DocumentMoniker": "C:\\24\\Projects\\ASP.Net Employee\\ASP.Net\\EmployeeManagement\\Models\\UpdateEmployeeDto.cs",
+              "RelativeDocumentMoniker": "Models\\UpdateEmployeeDto.cs",
+              "ToolTip": "C:\\24\\Projects\\ASP.Net Employee\\ASP.Net\\EmployeeManagement\\Models\\UpdateEmployeeDto.cs*",
+              "RelativeToolTip": "Models\\UpdateEmployeeDto.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T02:37:18.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "AddEmployeeDto.cs",
               "DocumentMoniker": "C:\\24\\Projects\\ASP.Net Employee\\ASP.Net\\EmployeeManagement\\Models\\AddEmployeeDto.cs",
               "RelativeDocumentMoniker": "Models\\AddEmployeeDto.cs",
               "ToolTip": "C:\\24\\Projects\\ASP.Net Employee\\ASP.Net\\EmployeeManagement\\Models\\AddEmployeeDto.cs",
               "RelativeToolTip": "Models\\AddEmployeeDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T01:47:46.365Z"
+              "WhenOpened": "2024-10-08T01:47:46.365Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -66,16 +84,16 @@
               "Title": "EmployeesController.cs",
               "DocumentMoniker": "C:\\24\\Projects\\ASP.Net Employee\\ASP.Net\\EmployeeManagement\\Controllers\\EmployeesController.cs",
               "RelativeDocumentMoniker": "Controllers\\EmployeesController.cs",
-              "ToolTip": "C:\\24\\Projects\\ASP.Net Employee\\ASP.Net\\EmployeeManagement\\Controllers\\EmployeesController.cs*",
-              "RelativeToolTip": "Controllers\\EmployeesController.cs*",
-              "ViewState": "AQIAACMAAAAAAAAAAAAwwCoAAAAAAAAA",
+              "ToolTip": "C:\\24\\Projects\\ASP.Net Employee\\ASP.Net\\EmployeeManagement\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAqwFgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-07T20:39:12.665Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "20241007201329_initial migration.cs",
               "DocumentMoniker": "C:\\24\\Projects\\ASP.Net Employee\\ASP.Net\\EmployeeManagement\\Migrations\\20241007201329_initial migration.cs",
               "RelativeDocumentMoniker": "Migrations\\20241007201329_initial migration.cs",
@@ -87,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "EmployeeManagement.http",
               "DocumentMoniker": "C:\\24\\Projects\\ASP.Net Employee\\ASP.Net\\EmployeeManagement\\EmployeeManagement.http",
               "RelativeDocumentMoniker": "EmployeeManagement.http",
@@ -99,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\24\\Projects\\ASP.Net Employee\\ASP.Net\\EmployeeManagement\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -112,7 +130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\24\\Projects\\ASP.Net Employee\\ASP.Net\\EmployeeManagement\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -124,7 +142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\24\\Projects\\ASP.Net Employee\\ASP.Net\\EmployeeManagement\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
@@ -136,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\24\\Projects\\ASP.Net Employee\\ASP.Net\\EmployeeManagement\\Models\\Entities\\Employee.cs",
               "RelativeDocumentMoniker": "Models\\Entities\\Employee.cs",
@@ -149,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "EmployeeManagement.csproj",
               "DocumentMoniker": "C:\\24\\Projects\\ASP.Net Employee\\ASP.Net\\EmployeeManagement\\EmployeeManagement.csproj",
               "RelativeDocumentMoniker": "EmployeeManagement.csproj",
